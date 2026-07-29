@@ -1,8 +1,7 @@
 // Smart Supply Tracker & Reorder Alert - Apps Script
 
 
-/**
- * initialSetup
+/*
  * - Creates time-driven triggers for daily inventory checks and monthly AI predictions
  * - Performs sheet checks and creates missing sheets
  */
